@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carii-codes
 - 👀 I’m interested in code, music, travel, art, crypto and animals. 
-- 🌱 I’m currently learning cs fundamentals and HTML + CSS 
+- 🌱 I’m currently learning CS fundamentals and HTML + CSS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
