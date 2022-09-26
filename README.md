@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @carii-codes
-- 👀 I’m interested in code, music, travel, art, crypto and animals. 
-- 🌱 I’m currently learning CS fundamentals and HTML + CSS 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi! I'm Carina, a frontend web developer based in Tx 📍 <br>
+Aspiring digital nomad 🚀 <br> 
+Currently open to remote work and collaboration opportunities 💻 <br>
 
 <!---
 carii-codes/carii-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
